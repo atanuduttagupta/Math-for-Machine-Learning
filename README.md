@@ -41,22 +41,15 @@ To develop **deep intuition + practical skills** in math concepts that power mod
 ```
 Math-for-Machine-Learning/
 │
-├── Vectors/
-│   ├── Day22_Vectors_Practice.ipynb
-│   └── README.md
+├── Vectors_Practice.ipynb
 │
-├── Vector-Similarity/
-│   ├── Vector_Similarity.ipynb
-│   └── README.md
+├── Vector_Similarity.ipynb
 │
-├── Matrices/
-│   ├── Matrices_Practice.ipynb
+├── Matrices_Practice.ipynb
 │
-├── Matrix-Multiplication/
-│   ├── Matrix_Multiplication.ipynb
+├── Matrix_Multiplication.ipynb
 │
-├── Eigenvalues/
-│   ├── Eigenvalues_Eigenvectors.ipynb
+├── Eigenvalues_Eigenvectors.ipynb
 │
 └── README.md
 ```
